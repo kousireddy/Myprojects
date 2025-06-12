@@ -30,12 +30,12 @@ git --version
 |row 1 | row 1 |
 |row 2 |row 2 |
 
-~ [ ] task 1
+- [ ] task 1
 
-~ [x] python
+- [x] python
 
-~ [x] HTML
+- [x] HTML
 
-~ [x] jupyter
+- [x] jupyter
 
 
